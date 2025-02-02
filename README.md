@@ -1,9 +1,9 @@
 
 # Orpheus Card
-### I made an NFC card that is themed with orpheus's doodles from the hackclub/dinosaurs repo by following Maggie's tutorial on it.
+I made an NFC card that is themed with orpheus's doodles from the hackclub/dinosaurs repo by following Maggie's tutorial on it.
 
-#### Followed the instructon video provided by maggie (thanks for it)
-#### Also thanks to all of the people who gave me design inspiration from the hackclub/dinosaurs repo
+Followed the instructon video provided by maggie (thanks for it) https://jams.hackclub.com/jam/hacker-card
+Also thanks to all of the people who gave me design inspiration from the hackclub/dinosaurs repo
 
 ## Design
 ![1](image/front.png)
